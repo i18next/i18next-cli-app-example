@@ -1,0 +1,4 @@
+{
+  "salutation": "Hallo Welt!",
+  "salutationWithName": "Hallo {{name}}!"
+}

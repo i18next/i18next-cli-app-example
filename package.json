@@ -1,0 +1,12 @@
+{
+  "type": "commonjs",
+  "bin": "./bin/mycli.js",
+  "scripts": {
+    "pkg": "mkdir -p ./bins && pkg ./bin/mycli.js --out-path ./bins"
+  },
+  "dependencies": {
+    "commander": "8.0.0",
+    "i18next": "20.3.2",
+    "pkg": "5.3.0"
+  }
+}
